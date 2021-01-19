@@ -16,9 +16,9 @@
 
 5. **My latest code**. I have projects on [Github](https://github.com/Yuri-9). You can see this projects here:
    - [Piskel-clone](https://yuri-9.github.io/piskel-clone/) (canvas)
-   - [Songbird](https://yuri-9.github.io/songbird/) (react)
    - [Fancy-weather](https://yuri-9.github.io/fancy-weather/) (webpack, API, async await)
-6. **Experience**: RSSchool 2019Q3 JS, React
+   - [Songbird](https://yuri-9.github.io/songbird/) (react)
+6. **Experience**: RSSchool 2019Q3, RSSchool React 2020
 7. **Education**:
    - BNTU, Entrgy Faculty,Graduation year 2008
    - RSSchool course «JavaScript/Front-end» 2019-2020 [Certicate of Completion](https://app.rs.school/certificate/7kgaun5v)
