@@ -18,8 +18,7 @@
    - [Piskel-clone](https://yuri-9.github.io/piskel-clone/) (canvas)
    - [Songbird](https://yuri-9.github.io/songbird/) (react)
    - [Fancy-weather](https://yuri-9.github.io/fancy-weather/) (webpack, API, async await)
-   -
-6. **Experience**: Throughout my self-study, I solved tasks JS, HTML amd CSS.
+6. **Experience**: RSSchool 2019Q3 JS, React
 7. **Education**:
    - BNTU, Entrgy Faculty,Graduation year 2008
    - RSSchool course «JavaScript/Front-end» 2019-2020 [Certicate of Completion](https://app.rs.school/certificate/7kgaun5v)
