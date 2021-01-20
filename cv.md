@@ -1,0 +1,29 @@
+1. **Yuri Vashkevich**
+2. **Contact Info:**
+
+- Phone number +375 25 602-69-01
+- <Vashkevichyp@gmail.com>
+- Github: [Yuri-9](https://github.com/Yuri-9)
+
+3. **The main goal** is to make my family always happy. Earn a lot of money and travel with my family around the world. I like to work at a computer, program and analyze code. I do not want to sit still, I want to evolve and become a developer.
+4. **My skills:**
+
+   - JavaScript
+   - HTML5/CSS3 (Less, SCSS)
+   - GIT/GitHub/
+   - React
+   - AutoCAD
+
+5. **My latest code**. I have projects on [Github](https://github.com/Yuri-9). You can see this projects here:
+   - [Piskel-clone](https://yuri-9.github.io/piskel-clone/) (canvas)
+   - [Fancy-weather](https://yuri-9.github.io/fancy-weather/) (webpack, API, async await)
+   - [Songbird](https://yuri-9.github.io/songbird/) (react)
+6. **Experience**: RSSchool 2019Q3, RSSchool React 2020
+7. **Education**:
+   - BNTU, Energy Faculty,Graduation year 2008
+   - RSSchool course «JavaScript/Front-end» 2019-2020 [Certificate of Completion](https://app.rs.school/certificate/7kgaun5v)
+   - TRSSchool course «React» 2020 [Certificate of Completion](https://app.rs.school/certificate/sovht1n6)
+8. **English**:
+   - Courses _Streamline_ Elementary at 2009
+   - Courses _Streamline_ Pre-Intermediate at 2010
+   - English as a Second Language (ESL) at 2019
