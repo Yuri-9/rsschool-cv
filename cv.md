@@ -13,3 +13,9 @@
    - GIT/GitHub/
    - React
    - AutoCAD
+
+5. **My latest code**. I have projects on [Github](https://github.com/Yuri-9). You can see this projects here:
+   - [Piskel-clone](https://yuri-9.github.io/piskel-clone/) (canvas)
+   - [Fancy-weather](https://yuri-9.github.io/fancy-weather/) (webpack, API, async await)
+   - [Songbird](https://yuri-9.github.io/songbird/) (react)
+6. **Experience**: RSSchool 2019Q3, RSSchool React 2020
