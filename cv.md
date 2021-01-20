@@ -18,3 +18,12 @@
    - [Piskel-clone](https://yuri-9.github.io/piskel-clone/) (canvas)
    - [Fancy-weather](https://yuri-9.github.io/fancy-weather/) (webpack, API, async await)
    - [Songbird](https://yuri-9.github.io/songbird/) (react)
+6. **Experience**: RSSchool 2019Q3, RSSchool React 2020
+7. **Education**:
+   - BNTU, Entrgy Faculty,Graduation year 2008
+   - RSSchool course «JavaScript/Front-end» 2019-2020 [Certicate of Completion](https://app.rs.school/certificate/7kgaun5v)
+   - TRSSchool course «React» 2020 [Certicate of Completion](https://app.rs.school/certificate/sovht1n6)
+8. **English**:
+   - Сourses _Streamline_ Elementary at 2009
+   - Сourses _Streamline_ Pre-Intermediate at 2010
+   - English as a Second Language (ESL) at 2019
