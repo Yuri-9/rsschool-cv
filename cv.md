@@ -20,10 +20,10 @@
    - [Songbird](https://yuri-9.github.io/songbird/) (react)
 6. **Experience**: RSSchool 2019Q3, RSSchool React 2020
 7. **Education**:
-   - BNTU, Entrgy Faculty,Graduation year 2008
-   - RSSchool course «JavaScript/Front-end» 2019-2020 [Certicate of Completion](https://app.rs.school/certificate/7kgaun5v)
-   - TRSSchool course «React» 2020 [Certicate of Completion](https://app.rs.school/certificate/sovht1n6)
+   - BNTU, Energy Faculty,Graduation year 2008
+   - RSSchool course «JavaScript/Front-end» 2019-2020 [Certificate of Completion](https://app.rs.school/certificate/7kgaun5v)
+   - TRSSchool course «React» 2020 [Certificate of Completion](https://app.rs.school/certificate/sovht1n6)
 8. **English**:
-   - Сourses _Streamline_ Elementary at 2009
-   - Сourses _Streamline_ Pre-Intermediate at 2010
+   - Courses _Streamline_ Elementary at 2009
+   - Courses _Streamline_ Pre-Intermediate at 2010
    - English as a Second Language (ESL) at 2019
