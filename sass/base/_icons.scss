@@ -1,0 +1,84 @@
+.icon {
+    cursor: pointer;
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+}
+
+.icon-rotate {
+    transform: rotate(-0.125turn);
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.icon-rhombus {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $color-primary;
+    transform: rotate(0.125turn);    
+}
+
+.icon-round {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;    
+    background-color: $color-icon;
+    
+}
+
+.icon_phone {
+    background-image: url("../img/phone.svg");    
+}
+
+.icon_letter {
+    background: url("../img/letter.svg");   
+}
+
+.icon_git {
+    background-image: url("../img/github.svg");   
+}
+
+.icon_placeholder {
+    background-image: url("../img/placeholder.svg");
+}
+
+.icon_goal {
+    background-image: url("../img/goal.svg");   
+}
+
+.icon_skills {
+    background-image: url("../img/skills.svg");   
+}
+
+.icon_latest-code {
+    background-image: url("../img/latest-code.svg");
+    
+}
+.icon_experience {
+    background-image: url("../img/experience.svg");
+    
+}
+
+.icon_education {
+    background-image: url("../img/education.svg");
+    
+}
+
+.icon_english {
+    background-image: url("../img/english.svg");
+    
+}
+
+.icon_hobbies {
+    background-image: url("../img/hobbies.svg");
+    
+}
+
+
