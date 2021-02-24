@@ -3,6 +3,9 @@
     flex-shrink: 1; 
     text-align: center; 
     background-color: $color-secondary;  
+    @include media-mobile {
+        flex-basis: 550px;  
+    }
  }
  
  .cover {
