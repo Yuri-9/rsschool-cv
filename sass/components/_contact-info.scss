@@ -1,0 +1,46 @@
+.contact-info {
+    flex-basis: 400px;  
+    flex-shrink: 1; 
+    text-align: center; 
+    background-color: $color-secondary;  
+ }
+ 
+ .cover {
+     background: $color-primary;
+     padding-bottom: 1px;
+ }
+
+ .contact-me {
+    background-color: $color-secondary;    
+    color: $color-text-light;
+    &__container {
+        padding: 0 0 0 30px;
+        text-align: left;
+    }
+    &__title{        
+        text-transform: uppercase;
+        padding: 50px 0 7px 0;
+        border-bottom: 1px solid;
+        margin: 0 32px;
+        text-align: left;
+    }
+    &__list {
+        padding: 20px 0 0 0;
+    }
+    &__link {        
+        margin: 0 0 19px;
+        display: flex;
+        align-items: center;
+        > a {
+            margin-left: 11px;
+            color: $color-link;
+            text-decoration: none;
+        }
+        &:hover {
+            a {
+                @extend %transition;
+                text-decoration: underline; 
+            }
+        }}
+    
+ }
