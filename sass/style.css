@@ -560,10 +560,46 @@ h5 {
   background-image: url("../img/hobbies.svg");
 }
 
+.logo {
+  display: flex;
+  cursor: pointer;
+}
+
+.logo-img {
+  background: url("../img/rs_school_js.svg");
+  width: 200px;
+  height: 75px;
+  background-repeat: no-repeat;
+}
+
+.logo-svg:hover {
+  fill: #b7dcf8;
+}
+
 .main {
+  display: flex;
+}
+@media (max-width: 550px) {
+  .main {
+    flex-wrap: wrap;
+  }
+}
+
+.footer {
+  display: flex;
+  padding: 20px 30px;
+  justify-content: space-between;
+  background-color: #f2f5f5;
+}
+@media (max-width: 550px) {
+  .footer {
+    flex-wrap: wrap;
+  }
+}
+
+.wrapper {
   max-width: 1000px;
   margin: auto;
-  display: flex;
 }
 
 .contact-info {
@@ -571,6 +607,11 @@ h5 {
   flex-shrink: 1;
   text-align: center;
   background-color: #3a6b94;
+}
+@media (max-width: 550px) {
+  .contact-info {
+    flex-basis: 550px;
+  }
 }
 
 .cover {
